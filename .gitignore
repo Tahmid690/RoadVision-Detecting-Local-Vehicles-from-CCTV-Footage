@@ -1,0 +1,35 @@
+# Model weights & checkpoints (host on GitHub Releases / Hugging Face / Kaggle Datasets)
+weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.ckpt
+*.bin
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets & local config
+.env
+kaggle.json
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

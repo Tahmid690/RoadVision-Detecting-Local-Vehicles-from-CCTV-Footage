@@ -1,0 +1,9 @@
+Notebook Link,Model Used,Public LB Score,Private Score,,,
+Notebook-1 (Baseline),yolo11s,0.55276,0.55117,,,
+Notebook-2 (TTA),yolo11s (used weights from Notebook-1),0.53314,0.56278,,,
+"Notebook-3 (5 fold, 40 epoch)",yolov8s,0.56748,0.62783,,,
+Notebook-4 (iou 0.6→0.5),yolov8s(used weights of Notebook-4),0.56135,0.63206,,,
+"Notebook-5 (3 fold, 50 epoch)",yolo11m,0.63809,0.6252,,,
+"Notebook-6 (5 fold, 40 Epoch, 1280 px)",yolo11m,0.60328,0.64542,,,
+Notebook-7(RT DETR),RT DETR-1,0.47912,0.50688,,,Incomplete
+Notebook-8(5 & 6 Merged),Weighted 5 & 6,0.62124,0.64323,,,
