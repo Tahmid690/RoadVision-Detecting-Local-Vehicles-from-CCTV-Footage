@@ -2,11 +2,6 @@
 
 **DUET AI Hackathon 2026 (Datathon)** — Vehicle detection and classification in Bangladesh's highway CCTV surveillance imagery.
 
-![Competition](https://img.shields.io/badge/DUET%20AI%20Hackathon-2026-blue)
-![Best Private LB](https://img.shields.io/badge/Best%20Private%20LB-0.6454%20mAP%400.5-brightgreen)
-![Best Public LB](https://img.shields.io/badge/Best%20Public%20LB-0.6456%20mAP%400.5-cyan)
-![Framework](https://img.shields.io/badge/Stack-YOLO11%20%7C%20WBF%20%7C%20SAHI%20%7C%20VisDrone-orange)
-
 ---
 
 ## Overview
